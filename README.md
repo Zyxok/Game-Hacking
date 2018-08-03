@@ -1,5 +1,5 @@
 # Game-Hacking
-The funny part about this repository is that it's hiding in plain site. I've had many try to 
+The funny part about this repository is that it's hiding in plain site (pun intended). I've had many try to 
 steal this, but I'm hosting it on a repository, on Github! Nobody really cares about my Github, 
 or much of the work I do here anyways, so it doesn't really matter.
 
